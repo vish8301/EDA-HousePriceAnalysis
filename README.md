@@ -6,7 +6,7 @@ This repository contains a Jupyter Notebook for the Exploratory Data Analysis (E
 
 ## Overview
 
-The notebook CA1.ipynb explores the house pricing dataset with a focus on understanding the underlying patterns, correlations, and distributions of various features. The analysis includes:
+The notebook `houseprice_analysis.ipynb` explores the house pricing dataset with a focus on understanding the underlying patterns, correlations, and distributions of various features. The analysis includes:
 
 - Data Cleaning: Handling missing values and data inconsistencies.
 - Univariate Analysis: Examining individual features to understand their distribution and characteristics.

@@ -13,7 +13,7 @@ The notebook `houseprice_analysis.ipynb` explores the house pricing dataset with
 - Bivariate and Multivariate Analysis: Exploring relationships between features and their impact on house prices.
 - Variable Transformation and Feature Engineering: Enhancing model readiness through thoughtful feature modifications.
 
-The following steps are taken to make the data analytics ready for machine learning:
+The following steps are taken to make the dataset analytics ready for machine learning:
 ![Data Preparation](https://github.com/vish8301/EDA-HousePriceAnalysis/blob/main/readme_image.png "Data Preparation Process")
 
 

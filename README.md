@@ -49,7 +49,7 @@ Install these packages using pip:
 pip install pandas numpy matplotlib seaborn
 ```
 
-# Usage
+## Usage
 
 To run this notebook:
 
